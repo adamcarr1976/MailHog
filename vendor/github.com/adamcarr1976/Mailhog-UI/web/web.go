@@ -9,8 +9,8 @@ import (
 	"path/filepath"
 	"strings"
 
+	"github.com/adamcarr1976/MailHog-UI/config"
 	"github.com/gorilla/pat"
-	"github.com/mailhog/MailHog-UI/config"
 )
 
 var APIHost string
